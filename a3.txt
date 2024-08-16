@@ -1,2 +1,6 @@
 a3
+<<<<<<< HEAD
 new a3 master
+new a3
+s3
+>>>>>>> first
